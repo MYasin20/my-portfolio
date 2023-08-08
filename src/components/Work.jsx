@@ -10,7 +10,7 @@ import TODOLIST from '../images/todolistSS.png';
 
 const Work = () => {
   return (
-    <div name="work" className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
+    <div name="work" className='w-full text-gray-300 bg-[#0a192f] pt-20'>
       <div className="max-w-[1000px] w-full h-full mx-auto p-4 flex flex-col justify-center">
         <div className="pb-8">
           <p className="text-4xl font-bold border-b-4 border-[#edc540] inline text-gray-300">Work</p>
@@ -21,10 +21,10 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
 
           <div style={{ backgroundImage: `url(${SpaceTourism})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                Space Tourism (React)
+              <span className='text-xl font-bold text-white tracking-wider'>
+                Space Tourism (React + React-Router)
               </span>
 
               <div className='pt-8 text-center'>
@@ -46,7 +46,7 @@ const Work = () => {
           <div style={{ backgroundImage: `url(${TeslaClone})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-xl font-bold text-white tracking-wider'>
                 Tesla Clone Website (React + Styled Components)
               </span>
 
@@ -69,7 +69,7 @@ const Work = () => {
           <div style={{ backgroundImage: `url(${FlagAPI})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-xl font-bold text-white tracking-wider'>
                 Flag Countries API (React + Tailwind)
               </span>
 
@@ -92,7 +92,7 @@ const Work = () => {
           <div style={{ backgroundImage: `url(${PassGenerator})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-xl font-bold text-white tracking-wider'>
                 Password Generator (HTML, CSS, JS)
               </span>
 
@@ -115,8 +115,8 @@ const Work = () => {
           <div style={{ backgroundImage: `url(${TODOLIST})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                CRUD TodoList App
+              <span className='text-xl font-bold text-white tracking-wider'>
+                CRUD TodoList App (React)
               </span>
 
               <div className='pt-8 text-center'>
@@ -138,7 +138,7 @@ const Work = () => {
           <div style={{ backgroundImage: `url(${Blogr})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-xl font-bold text-white tracking-wider'>
                 Blogr Landing Page (HTML, CSS, JS)
               </span>
 
@@ -161,7 +161,7 @@ const Work = () => {
           <div style={{ backgroundImage: `url(${Sunny})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-xl font-bold text-white tracking-wider'>
                 Sunny Page (HTML, CSS, JS, Bootstrap)
               </span>
 
@@ -184,7 +184,7 @@ const Work = () => {
           <div style={{ backgroundImage: `url(${CCard})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+              <span className='text-xl font-bold text-white tracking-wider'>
                 Credit Card Page (HTML, CSS, JS)
               </span>
 

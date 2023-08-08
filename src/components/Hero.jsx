@@ -3,7 +3,7 @@ import { Link } from 'react-scroll';
 
 const Hero = () => {
   return (
-    <div name="hero" className='w-full h-screen bg-[#0a192f]'>
+    <div name="hero" className='w-full h-screen relative bg-[#0a192f] z-[1] overflow-x-hidden'>
 
       <div className='max-w-[1000px] mx-auto px-8 h-full flex flex-col justify-center'>
         <p className='text-[#edc540]'>Hi, my name is</p>
@@ -11,7 +11,7 @@ const Hero = () => {
         <h2 className='text-4xl sm:text-7xl text-[#8892b0]'>I&apos;m a Front-End Web Developer.</h2>
         <p className='max-w-[700px] my-4 text-[#8892b0]'>
           I&apos;m an entry-level web developer who love building websites,
-          and I&apos;m excited to turn my passion into a successful career in the tech industry.
+          and I&apos;m excited to turn my passion into a successful career.
         </p>
 
         <div>

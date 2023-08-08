@@ -21,9 +21,8 @@ const About = () => {
           <div>
             <p>
               I am an Information Technology graduate with a passion for web development and have a goal to become a full-stack developer.
-              I am committed to delivering high-quality work and continuously
-              improving my skills to excel in the tech industry,
-              whether it&apos;s working with clients or securing a job.
+              I am eager to contribute my expertise to a dynamic and innovative company that values growth and creativity. With a commitment to delivering high-quality work,
+              I strive to continuously improve my skills to excel within the company.
             </p>
           </div>
         </div>
