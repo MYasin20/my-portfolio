@@ -28,7 +28,7 @@ const Work = () => {
               </span>
 
               <div className='pt-8 text-center'>
-                <a href="https://frabjous-valkyrie-b917e8.netlify.app/" target='_blank' rel='noreferrer'>
+                <a href="https://spacetourism-react-myasin.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -74,7 +74,7 @@ const Work = () => {
               </span>
 
               <div className='pt-8 text-center'>
-                <a href="https://thunderous-stroopwafel-1bfd1b.netlify.app/" target='_blank' rel='noreferrer'>
+                <a href="https://flag-api-react-pagination-myasin.netlify.app" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -120,7 +120,7 @@ const Work = () => {
               </span>
 
               <div className='pt-8 text-center'>
-                <a href="https://sunny-dasik-f09006.netlify.app/" target='_blank' rel='noreferrer'>
+                <a href="https://crud-todo-app-react-myasin.netlify.app/" target='_blank' rel='noreferrer'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
