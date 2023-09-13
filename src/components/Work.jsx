@@ -70,7 +70,7 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-xl font-bold text-white tracking-wider'>
-                Flag Countries API (React + Tailwind)
+                Flag Countries API (React & Tailwind) + Pagination
               </span>
 
               <div className='pt-8 text-center'>
